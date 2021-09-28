@@ -10,9 +10,9 @@
 
 ## 工作及教育经历
 
-* 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.8~至今&emsp;&emsp;&emsp;&emsp;&emsp; 事业群名字-部门名字       
-* 北京大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 软件工程专业-研究生         
-* 北京理工大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 材料成型及控制工程专业-本科  
+* 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2024.8~至今&emsp;&emsp;&emsp;&emsp;&emsp; 事业群名字-部门名字       
+* 北京大学&emsp;&emsp;&emsp;&emsp;&emsp;2021.9~2024.7&emsp;&emsp;&emsp;&emsp; 软件工程专业-研究生         
+* 北京理工大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2021.7&emsp;&emsp;&emsp;&emsp; 材料成型及控制工程专业-本科  
 
 ## 专业技能
 
